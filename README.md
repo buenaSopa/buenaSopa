@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **buenaSopa/buenaSopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenaSopa&layout=compact&show_icons=true&theme=dracula" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=buenaSopa&count_private=true&show_icons=true&theme=dracula" />
+</a>
+
+![](https://media.giphy.com/media/aSDO2dtN3lWow/giphy.gif)
