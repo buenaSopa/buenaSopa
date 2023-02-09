@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats-zeta-kohl-47.vercel.app/api/top-langs/?username=buenaSopa&layout=compact&show_icons=true&theme=dracula" />
+<img align="center" src="https://github-readme-stats-zeta-kohl-47.vercel.app/api/top-langs/?username=buenaSopa&layout=compact&show_icons=true&theme=dracula&langs_count=10" />
 <img align="center" src="https://github-readme-stats-zeta-kohl-47.vercel.app/api?username=buenaSopa&count_private=true&show_icons=true&theme=dracula" />
 
 ![](https://www.codewars.com/users/Bryan%20Koh%20Yuan%20Hao/badges/large)
