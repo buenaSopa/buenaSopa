@@ -18,11 +18,3 @@ Here are some ideas to get you started:
 
 ![](https://www.codewars.com/users/Bryan%20Koh%20Yuan%20Hao/badges/large)
 
-![](https://i.chzbgr.com/full/8205182464/hFC07FFE9/completely-shreked)
-![](https://media.tenor.com/ajffHWnOqBMAAAAM/sus-sherk.gif)
-![](https://www.icegif.com/wp-content/uploads/shrek-icegif-15.gif)
-![]()
-![]()
-
-![](https://media.giphy.com/media/aSDO2dtN3lWow/giphy.gif)
-
