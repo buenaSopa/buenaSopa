@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi, Imma Moh</h1>
+<h1 align="center">Hi, Im Moh</h1>
 <h4 align="center">A beginner passionate developer</h4>
 
 <!-- <h3 align="center"></h3> -->
