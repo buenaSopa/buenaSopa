@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning:
   * Jest & Cypress
-  * .NET
+  * Design pattern
 
 <h3 align="center">Languages and Tools:</h3>
 
