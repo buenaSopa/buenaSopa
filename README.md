@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <h4 align="center">Framework:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,flask,fastapi,nextjs,vue,nuxtjs" />
+    <img src="https://skillicons.dev/icons?i=django,flask,fastapi,nextjs,vue,nuxtjs,svelte" />
   </a>
 </p>
 
